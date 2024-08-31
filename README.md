@@ -1,6 +1,9 @@
 # first_app
 
-A new Flutter project.
+A Simple Flutter project from Mitch Koko yt channel.
+This is simple app about medical UI.
+We have two classes StatelessWidget in the app
+
 
 ## Getting Started
 
